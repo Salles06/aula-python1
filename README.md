@@ -1,7 +1,10 @@
-# aula-python1
+# Aulaquarta
 
-## apresentação da aula quinta: Versionamento
+a = 2
+b = 6
+c = 3
 
-### Resumo
-
-## Nesta aula estamos subindo nosso primeiro projeto no gitHub
+operacaoAnd = a == b and c * a == b
+print (operacaoAnd)
+operacaoOr = a == b or c * a == b
+print (operacaoOr)
